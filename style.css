@@ -1,0 +1,22 @@
+* {
+    font-family:"Roboto","Helvetica",sans-serif;
+}
+
+.header{
+    display:flex;
+    background-color:#1F2937;
+    color:#F9FAF8;
+    padding:24px;
+    justify-content:space-between;
+    align-items:center;
+    font-size:30px;
+}
+
+.header ul{
+    display:flex;
+    padding:0px;
+    margin:0px;
+    list-style-type:none;
+    gap:10px;
+    font-size:medium;
+}

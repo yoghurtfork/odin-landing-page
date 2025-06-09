@@ -86,6 +86,28 @@
     border-color:#3882F6;
 }
 
+.third-section{
+    background-color:#E5E7EB;
+    padding:50px;
+    display:flex;
+    flex-direction:column;
+}
+
+.third-section .quote{
+    font-size:24px;
+    font-weight:light;
+    font-style:italic;
+    color:#1F2937;
+    align-self:center;
+    text-align:center;
+}
+
+.third-section .name{
+    font-size:22px;
+    font-weight:bolder;
+    align-self:end;
+}
+
 .section-header{
     font-weight:800;
     font-size:32px;
